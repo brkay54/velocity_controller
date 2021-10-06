@@ -1,0 +1,10 @@
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/install/local.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/install.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/talker.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/controller_uninstall.dir
+/home/berkay/demos/dev_ws/src/controller/cmake-build-debug/CMakeFiles/test.dir
